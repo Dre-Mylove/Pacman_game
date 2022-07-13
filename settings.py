@@ -1,0 +1,14 @@
+# SCREEN SETTINGS
+SCREEN_WITDTH = 500
+SCREEN_HEIGHT = 500
+
+# ccoloR settings
+BG_COLOR = (184,184,184)
+GRID_COLOR =(0,0,0)
+CELL_BG_COLOR =(122,122,122)
+
+# Cell Size
+CELL_SIZE = 100
+
+# grid settings
+GRID_POS = (100,150)
